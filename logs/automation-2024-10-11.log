@@ -1,0 +1,51 @@
+22:04:45.590 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+22:04:45.992 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+22:04:52.956 [main] INFO  testCases.TC001_AccountResgistrationTest -****Starting AccountRegistrationTest****
+22:04:53.225 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on my account link
+22:04:53.746 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on register link
+22:04:53.748 [main] INFO  testCases.TC001_AccountResgistrationTest -providing customer details
+22:04:54.366 [main] INFO  testCases.TC001_AccountResgistrationTest -Validating expected message
+22:39:40.169 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+22:39:40.510 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+22:39:44.823 [main] INFO  testCases.TC001_AccountResgistrationTest -****Starting AccountRegistrationTest****
+22:39:45.212 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on my account link
+22:39:45.654 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on register link
+22:39:45.656 [main] INFO  testCases.TC001_AccountResgistrationTest -providing customer details
+22:39:46.326 [main] INFO  testCases.TC001_AccountResgistrationTest -Validating expected message
+19:33:52.849 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+19:33:53.516 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+19:34:05.626 [main] INFO  testCases.TC002_LoginTest -Starting TC_002_Login Test
+19:34:09.026 [main] INFO  testCases.TC002_LoginTest -Finished TC002 Login Test
+19:34:39.356 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+19:34:39.976 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+19:34:45.539 [main] INFO  testCases.TC002_LoginTest -Starting TC_002_Login Test
+19:34:48.429 [main] INFO  testCases.TC002_LoginTest -Finished TC002 Login Test
+17:22:46.706 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+17:22:47.402 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+17:22:58.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+17:22:58.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:22:58.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+17:22:59.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+17:22:59.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:22:59.624 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+17:22:59.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+17:22:59.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:22:59.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+17:22:59.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+17:22:59.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:22:59.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+17:22:59.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+17:22:59.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:22:59.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+17:22:59.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+17:22:59.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels

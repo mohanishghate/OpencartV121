@@ -1,0 +1,37 @@
+13:35:03.895 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\grouping.xml
+
+13:35:22.330 [main] INFO  testCases.TC001_AccountResgistrationTest -****Starting AccountRegistrationTest****
+13:35:23.695 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on my account link
+13:35:24.509 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on register link
+13:35:24.515 [main] INFO  testCases.TC001_AccountResgistrationTest -providing customer details
+13:35:26.149 [main] INFO  testCases.TC001_AccountResgistrationTest -Validating expected message
+13:35:26.150 [main] INFO  testCases.TC001_AccountResgistrationTest -******* Finished TC001_AccountResgistrationTest ********
+13:35:32.675 [main] INFO  testCases.TC002_LoginTest -Starting TC_002_Login Test
+13:35:37.061 [main] INFO  testCases.TC002_LoginTest -Finished TC002 Login Test
+13:36:50.225 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\grouping.xml"
+13:36:50.887 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\grouping.xml
+
+13:37:00.224 [main] INFO  testCases.TC002_LoginTest -Starting TC_002_Login Test
+13:37:02.694 [main] INFO  testCases.TC002_LoginTest -Finished TC002 Login Test
+13:53:44.855 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+13:56:40.753 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+13:57:18.836 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+13:57:19.545 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+13:57:32.305 [main] INFO  testCases.TC001_AccountResgistrationTest -****Starting AccountRegistrationTest****
+13:57:33.644 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on my account link
+13:57:34.351 [main] INFO  testCases.TC001_AccountResgistrationTest -Clicked on register link
+13:57:34.356 [main] INFO  testCases.TC001_AccountResgistrationTest -providing customer details
+13:57:35.715 [main] INFO  testCases.TC001_AccountResgistrationTest -Validating expected message
+13:57:35.715 [main] INFO  testCases.TC001_AccountResgistrationTest -******* Finished TC001_AccountResgistrationTest ********
+13:57:41.066 [main] INFO  testCases.TC002_LoginTest -Starting TC_002_Login Test
+13:57:44.628 [main] INFO  testCases.TC002_LoginTest -Finished TC002 Login Test
+17:08:43.573 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml"
+17:08:44.402 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\Mohanish Ghate\firstbitsolutions-workspace\OpencartV121\Master.xml
+
+17:08:57.162 [main] INFO  testCases.TC002_LoginTest -Starting TC_002_Login Test
+17:08:59.438 [main] INFO  testCases.TC002_LoginTest -Finished TC002 Login Test
